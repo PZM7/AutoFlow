@@ -2,6 +2,9 @@
 
 Este repositorio agrupa la infraestructura y los proyectos necesarios para un **entorno CI/CD** completo basado en **Jenkins** orquestado con **Docker Compose**, e integra calidad de código, pruebas automatizadas y despliegue en la nube.
 
+> 📄 **Trabajo de Fin de Grado** · Grado en Ingeniería Informática del Software, Universidad de Oviedo (2025).
+> Memoria completa: [TFG_PedroZahoneroMangas.pdf](https://digibuo.uniovi.es/dspace/bitstream/handle/10651/79283/TFG_PedroZahoneroMangas.pdf?sequence=7&isAllowed=y) · [Ficha en el repositorio institucional](https://digibuo.uniovi.es/dspace/handle/10651/79283)
+
 ## ¿Qué incluye?
 
 - **Contenedores**  
